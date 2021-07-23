@@ -16,3 +16,9 @@ Make sure your work/code is simple, easily readable for you and other programmer
 4. Habit:
 Consistent way to get into your zone.
 The best way for programmers to be efficient is to be able to code in the "zone", so you won't be disturbed every 10 minutes.
+
+5. Habit: 
+Always learn new things!
+You need to keep yourself up to date, with the newest trends.
+
+
