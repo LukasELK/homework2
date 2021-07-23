@@ -8,3 +8,7 @@ Protect your body.
 2. Habit: 
 Get it done attitude.
 Make sure you don't end up in some neverending loot. Do your work, finish it and send it out!
+
+3. Habit: 
+Keep it simple - consistency
+Make sure your work/code is simple, easily readable for you and other programmers.
