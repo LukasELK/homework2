@@ -26,4 +26,9 @@ Collaboration.
 Coding is a team sport, codes must interrogate  each other.
 Also, if you get stuck in one place, is easy to get through it with the help of a colleague.
 
+7. habit: 
+Programming is a lonely activity.
+You won't by in society very often, communicating with new people and it's good to realize so you won't by surprised.
+
+
 
