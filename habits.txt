@@ -12,3 +12,7 @@ Make sure you don't end up in some neverending loot. Do your work, finish it and
 3. Habit: 
 Keep it simple - consistency
 Make sure your work/code is simple, easily readable for you and other programmers.
+
+4. Habit:
+Consistent way to get into your zone.
+The best way for programmers to be efficient is to be able to code in the "zone", so you won't be disturbed every 10 minutes.
