@@ -21,4 +21,9 @@ The best way for programmers to be efficient is to be able to code in the "zone"
 Always learn new things!
 You need to keep yourself up to date, with the newest trends.
 
+6. Habit: 
+Collaboration.
+Coding is a team sport, codes must interrogate  each other.
+Also, if you get stuck in one place, is easy to get through it with the help of a colleague.
+
 
